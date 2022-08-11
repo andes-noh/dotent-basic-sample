@@ -1,4 +1,4 @@
-namespace unomic;
+namespace sample;
 
 using System;
 using System.Threading;
