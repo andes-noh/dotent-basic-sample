@@ -1,6 +1,11 @@
-# dotnet-demo
+# dotnet-basic
 
-.NET Template Project
+.NET Template standalone Project
+
+Collector
+
+-   BackgroundService로 동작
+-   .env TEXT 내용 출력
 
 ## Setup
 
